@@ -5,6 +5,7 @@
 	</head>  
 
 	<body bgcolor="FFFFFF">
+	
 		<center>
 			<img src="clouds.jpg" align="bottom">
 		</center>
