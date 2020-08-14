@@ -9,9 +9,30 @@ p {font-size: 1em; color: #777;}
 
 
 /* CABEÇALHO */
-.cabecalho {width: 100%; float: left; padding: 50px 8%; background-color: #500070;}
+.cabecalho {width: 100%; float: left; padding: 30px 8%; background-color: #500070;}
 .logo a {width: 150px; height: 58px; float: left; background: url(../img/logo.png) no-repeat; font-size: 0;}
 .cabecalho form {width: 30%; float: right;}
 .cabecalho input[type="text"] {width:85%; float: left; padding: 15px 10px; border-radius: 5px 0 0 5px;}
 .cabecalho button {width: 15%; float: right; padding: 15px 10px; background-color: #38005e; color: #fff; cursor: pointer; border-radius: 0 5px 5px 0;}
 
+
+/* MENU */
+.menu {width: 100%; float: left; padding: 15px 8%; background-color: #111111;}
+.menu li {float: left;}
+.menu li a {color: #777777; margin-left: 15px;}
+.menu li a:hover {color: #fff;}
+
+
+/* SOCIAL ICONS */
+.social-icons {float: right;}
+.social-icons a {color: #fff; float: left; margin-left: 15px;}
+.btn-facebook:hover {color: #3B5998;}
+.btn-instagram:hover {color: #D73D;}
+.btn-twitter:hover {color: #54a4d6;}
+
+/* PRINCIPAL */
+.principal { width: 100%; float: left; padding: 20px 8%;}
+.sonho {width: 70%; float: left; padding: 0 20px 20px 0;}
+.sonho h2 {margin-bottom: 15px;}
+.sonho img { width: 50%; float: left; border-radius: 10px; margin: 0 15px 15px 0;}
+.sonho p {text-align: justify;}
